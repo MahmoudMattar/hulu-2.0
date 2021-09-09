@@ -1,3 +1,7 @@
+### [Live Site](https://hulu-2-0-lglnzazyb-mahmoudmattar.vercel.app/)
+
+![Hulu2.0](blob:https://vercel.com/3004bfc1-3656-4685-876a-3bd7f9adb753)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
